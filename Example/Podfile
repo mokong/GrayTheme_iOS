@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'GrayTheme_Example' do
+  pod 'GrayTheme', :path => '../'
+
+  target 'GrayTheme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
