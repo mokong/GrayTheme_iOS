@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "UIColor+Swizzle.h"
+#import "UIImage+Category.h"
+#import "UIImageView+Swizzle.h"
+#import "WKWebView+Swizzle.h"
 
 FOUNDATION_EXPORT double GrayThemeVersionNumber;
 FOUNDATION_EXPORT const unsigned char GrayThemeVersionString[];

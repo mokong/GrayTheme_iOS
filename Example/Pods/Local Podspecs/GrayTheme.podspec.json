@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of GrayTheme.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/7610712/GrayTheme",
+  "homepage": "https://github.com/mokong/GrayTheme_iOS",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "7610712": "a525325614@163.com"
+    "MorganWang": "a525325614@163.com"
   },
   "source": {
-    "git": "https://github.com/7610712/GrayTheme.git",
+    "git": "https://github.com/mokong/GrayTheme_iOS.git",
     "tag": "0.1.0"
   },
   "platforms": {
