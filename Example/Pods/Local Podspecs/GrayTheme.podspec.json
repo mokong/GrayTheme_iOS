@@ -1,0 +1,22 @@
+{
+  "name": "GrayTheme",
+  "version": "0.1.0",
+  "summary": "A short description of GrayTheme.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/7610712/GrayTheme",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "7610712": "a525325614@163.com"
+  },
+  "source": {
+    "git": "https://github.com/7610712/GrayTheme.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GrayTheme/Classes/**/*"
+}

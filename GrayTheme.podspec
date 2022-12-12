@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/7610712/GrayTheme'
+  s.homepage         = 'https://github.com/mokong/GrayTheme_iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '7610712' => 'a525325614@163.com' }
-  s.source           = { :git => 'https://github.com/7610712/GrayTheme.git', :tag => s.version.to_s }
+  s.author           = { 'MorganWang' => 'a525325614@163.com' }
+  s.source           = { :git => 'https://github.com/mokong/GrayTheme_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

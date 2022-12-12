@@ -1,0 +1,6 @@
+framework module Pods_GrayTheme_Example {
+  umbrella header "Pods-GrayTheme_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

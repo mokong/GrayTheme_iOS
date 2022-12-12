@@ -1,0 +1,6 @@
+framework module GrayTheme {
+  umbrella header "GrayTheme-umbrella.h"
+
+  export *
+  module * { export * }
+}
