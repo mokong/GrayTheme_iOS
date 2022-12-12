@@ -7,6 +7,7 @@
 //
 
 #import "UIColor+Swizzle.h"
+#import <objc/runtime.h>
 
 @implementation UIColor (Swizzle)
 

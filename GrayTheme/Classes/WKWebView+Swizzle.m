@@ -7,6 +7,7 @@
 //
 
 #import "WKWebView+Swizzle.h"
+#import <objc/runtime.h>
 
 @implementation WKWebView (Swizzle)
 

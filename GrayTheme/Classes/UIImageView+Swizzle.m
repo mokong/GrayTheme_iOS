@@ -7,6 +7,7 @@
 //
 
 #import "UIImageView+Swizzle.h"
+#import <objc/runtime.h>
 #import "UIImage+Category.h"
 
 @implementation UIImageView (Swizzle)

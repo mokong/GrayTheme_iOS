@@ -7,6 +7,7 @@
 //
 
 #import "MWAppDelegate.h"
+#import <GrayTheme/GrayTheme-umbrella.h>
 
 @implementation MWAppDelegate
 
