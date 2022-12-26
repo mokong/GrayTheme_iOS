@@ -25,7 +25,21 @@
 
 - (void)swizzleSetImage:(UIImage *)image {
     UIImage *grayImage = [image anotherGrayImage];
-    [self swizzleSetImage:grayImage];
+    
+    // find self's last superView
+    UIView *superView = self;
+    NSString *className = @"";
+    while (superView.superview) {
+        superView = superView.superview;
+        className = NSStringFromClass([superView class]);
+    }
+    
+    // if lastSuperView is keyboard window, then do not set grayImage
+    if ([className containsString:@"UIRemoteKeyboardWindow"]) {
+        [self swizzleSetImage:image];
+    } else {
+        [self swizzleSetImage:grayImage];
+    }
 }
 
 @end
