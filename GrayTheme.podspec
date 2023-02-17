@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GrayTheme'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'iOS黑白效果实现库.'
 
 # This description is used to generate tags and improve search results.
