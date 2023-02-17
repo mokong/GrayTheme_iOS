@@ -1,9 +1,9 @@
 //
 //  UIImage+Category.m
-//  WPSFehorizon
+//  GrayTheme
 //
-//  Created by Horizon on 12/12/2022.
-//  Copyright © 2022 fehorizon. All rights reserved.
+//  Created by MorganWang on 12/12/2022.
+//  Copyright © 2022 MorganWang. All rights reserved.
 //
 
 // 参考https://blog.csdn.net/iOSxiaodaidai/article/details/113553395
